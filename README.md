@@ -1,9 +1,10 @@
 # Zomato-Restaurants-Success-Prediction
 
-This project is about Zomato-Restaurants-Success-Prediction according to the data will be filled('location', 'listed_in(city)', 'listed_in(type)','approx_cost(for two people)', 'online_order', 'book_table')to predict if the restaurant has the potential to succeed or not.
+This project is about Zomato-Restaurants-Success-Prediction according to the data will be filled('location', 'listed_in(city)', 'listed_in(type)','approx_cost(for two people)', 'online_order', 'book_table', types , cuisines)to predict if the restaurant has the potential to succeed or not.
 
 ## App link
 App Link for Zomato Restaurants Success prediction:
+
 https://zomato-restaurants-success-prediction-1-0.streamlit.app/
 
 ## Demo
