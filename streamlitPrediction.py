@@ -122,7 +122,7 @@ def main():
     
     #button to predict
     if st.button('predict'):
-        if (rest_cuisines != None) or (rest_types != None):
+        if (rest_cuisines != None) and (rest_types != None):
             
                 st.dataframe(df)
                 result= Model.predict(df)[0]
